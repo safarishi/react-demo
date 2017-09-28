@@ -8,6 +8,7 @@
     "react-medium-image-zoom": "^2.0.3",
     "react-scripts": "1.0.14"
   },
+  "homepage": "https://safarishi.github.io/react-demo",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
